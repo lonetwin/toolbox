@@ -1,4 +1,1 @@
-toolbox
-=======
-
-Fabric script for common admin tasks
+*Fabric Toolbox for everyday administration*
